@@ -1,0 +1,10 @@
+{
+  "name": "DroidCurl",
+  "version": "1.0.0",
+  "api": 4,
+  "description": "Curl implementation designed for Android.",
+  "author": "PeratX",
+  "main": "PeratX\\DroidCurl\\Loader",
+  "order": 0,
+  "website": "https://github.com/PeratX/DroidCurl"
+}
